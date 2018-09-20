@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!.gitattributes
+!/mod
+!/plugins
+!/d3d9.dll
+.DS_Store
+

@@ -1,0 +1,48 @@
+﻿l_english:
+ CONVREL_STAB_NO_NEGATIVE:0 "`O—‰óS§G0§!¹p3zšReglbcáOðN"
+ PAPAL_OPINION_OF_US:0 "1uŽNYe—RýVùRbýV„v`¦^,·ƒ—_†N $VAL$ „vîOck."
+ LOSE_CLAIMS_ON:0 "§Y$WHO$§!1Y»S†NùR§R$PROVS$§!„v±Rðy"
+ RELEASE_VASSAL_ALL_PROVS_REQ:0 "§RNb	gÎW^*g«ˆ`S†˜§!"
+ LEAVECOALITION_VASSAL_REASON:0 "°s(Wÿn0R$OVERLORD$»y_Tw›Q†N"
+ EMBARGOED_BY_DETAILS:0 "«ˆ§Y$OTHER$§WžR½eyÐÿ§R$EFF$§W%"
+ MESSAGE_BUTTON_SEARCH:0 "d0t"
+ MESSAGE_BUTTON_CLEAR:0 "nd–"
+ MESSAGE_SEARCH_TOOLTIP:0 "Na„„YrÛLˆ§M‹s²RTwûY§!çuíu"
+ TRADEPATROL_REPAIRING:0 "§RUSMOck(WôuîO.ˆ_ë_1SýwçuíugbLˆûN¡R§!"
+ PEACE_VIEW_GOLD_ADD_REMOVE:0 "¹pûQ§G+§!ŒT§G-§!åN§GžX R§!b§GÏQS§!ÙuúQb0tÖS—‰„v¤.\n$GOLD|+$¤„vÑ‘^—‰§Y$WS|+1$§!b‰NRpe"
+ PEACE_VIEW_GOLD_ADD_REMOVE_KEYS:0 "§YóS.•§!ûm Rb»Sd–§GôfY§!.\n§Yshift+æ].•§!žX Rb»Sd–§Gg'Y<P§!"
+ PEACE_VIEW_GOLD_ADD_KEYS:0 "§YóS.•§!ûm R§GôfY§!0\n§YShift + æ].•§!ûm Ró§Gg'Y<P§!0"
+ PEACE_VIEW_GOLD_REMOVE_KEYS:0 "§YóS.•§!ÏQS§GôfY§!0\n§YShift + æ].•§!»Sd–§Gg'Y<P§!0"
+ SIEGE_ARTILLERY_EXPLANATION:0 "®puQ(WôVÎWöe	g Rb. RbÏ‘ÖS³QŽN®puQpeÏ‘ŒT‰^XIrµu„vî]Ý"
+ SIEGE_ARTILLERY_LINE:0 "§Y$AMOUNT$§!kp®p(§Y+$BONUS$§! Rb)"
+ SIEGE_STATUS_EXPLANATION:0 ";eÎW_ËY"
+ SIEGE_STATUS_LINE:0 "$NAME$ÿ§Y+$BONUS$§!;eÎW°s¶r"
+ SIEGE_BREACH_EXPLANATION:0 "Ïk*NôVÎW6–µk;eûQ¹eý	g:gOz4xÎW™X0z4xÎW™XOÙuˆN §Y+$BREACHBONUS$§! ôVÎWîOck0 ®puQOÐcØšz4xÎW™X„vïSýw'`, v^NH–çe„v!X’Wôf¹Rf«ˆz4x0"
+ SIEGE_CHANCE_EXPLANATION:0 "ôVÎW„vÏk*N6–µkýS·cNšg (§Y$MIN$§! 0R §Y$MAX$§!) „v°šPR0 Ù*N¹ppeSO ReQùRôVÎW¶r`„v9eo‚-N ($MODIFIERS$)0S_·cúQ„vŸSËY¹ppe:N1öe, ôVÎWwSmGN:Wv«uv^_c1YÖNìNg'Y›Q–pe„v §R$VAL$%§! 0\n\nÙ!k·c°šPR„vÓuœg‚YN:"
+ SIEGE_CHANCE_LINE:0 "$NAME$ÿ$RANGE$ (àQ‡sÿ$CHANCE$)"
+ SIEGE_DATES:0 "ôVÎWò]Ïucíu†N§Y$TOTAL$§!)Y.NN!k;eÎW6–µk(W§Y$LEFT$§!T"
+ SIEGE_PAUSING_CONSTRUCTION:0 "§RùRwýN„vôVðVÛz«ˆ-Nbk0§!"
+ PEACE_OFFER_GOLD_LIMIT:2 "Maximum is $MAX_LOANS$ loans totalling §Y$TOTAL$§!¤ ($WS|G$ War Score)."
+ ANNUL_TREATIES_CANT_GUARANTEE:0 "àeÕlÝOÁ‹ìrËzÿàV:NbìNŸ^d–ag¦u(W§Y$DATE$§!0Rg"
+ ANNUL_TREATIES_CANT_ALLIANCE:0 "àeÕlRú^TßvÿàV:NbìNŸ^d–ag¦u(W§Y$DATE$§!0Rg"
+ ANNUL_TREATIES_CANT_MIL_ACCESS:0 "àeÕlÙuˆN›Q‹NLˆCgÿàV:NbìNŸ^d–ag¦u(W§Y$DATE$§!0Rg"
+ CW_WARNSUBJECTS:0 "ÖNìNßu»lNw$COUNTRY$ÿå‹ýVSÙuÖNìN.^©R"
+ DIPLO_NEED_MORE_MILITARY_POWAH:0 "$WHO$åb	g§Y$CURRENT$§!›Q‹N¹ppeÿ—‰§Y$NEEDED$§!ÿ"
+ ATTR_TRADE_MISSION:0 "0% ‰‹W9‚êSckgbLˆûN¡R"
+ ATTR_NAVAL_BASE:0 "0% (WËS›Q=nãS"
+ NEXT_UNIT:0 "N*NUSMO"
+ PREV_UNIT:0 "N*NUSMO"
+ CONFIRM_DISBAND_WARN_LEADER:0 "§Rf‹JTÿ(Wwm-Nã‰ce0‚–OTöeã‰ceS†˜§Y$LEADER$§R§!"
+ PROV_PROD_EFF_NEW:0 "uµNHe‡sÐcØšÿ$VAL|%=+1$"
+ PROV_RELIGION:0 "§Y$PROVINCE$§!„vºNl=f§Y$PROVRELIGION$§!„váO’_ÿw§Y$COUNTRY$§!Ëz§Y$STATERELIGION$§!:NýVYeÿàVdkÖNìN«ˆå‹ýVÆ‰:N$TYPE$"
+ PROV_RELIGION_TYPE_HERETICS:0 "§R_ïz§!"
+ PROV_RELIGION_TYPE_HEATHENS:0 "§R_Ye§!"
+ PROV_RELIGION_TYPE_BELIEVERS:0 "§GcknxáOðN§!"
+ RELIGION_DESC:0 "ÖS³QåN`OùRNT—RYe„v¹RÍ_bþVÿNT:SßW„vwýNO	gckb—bb—„vq_ÍT"
+ TRADER_DISCOVERED:0 "8f‚‚¹p«ˆÑS°s"
+ PEACE_CANNOT_GIVEUP_US_COST:0 "wýNŒTs^±‚9*YØš†N"
+ GOTO_HOME:0 "l0R–™ýLˆw"
+ CONNECT_TO_SHIP_LOW_MORALE:0 "USMOëXlN=c."
+ FE_IRONMAN_GAMENOTOK:0 "Á”ºN!j_—‰*gÏuîO9eNÏuŒšÁ‹KN8nb,gSO."
+ 
+ PEACE_OFFER_GOLD_LIMIT:0 "P–6R(W§G$MAX$§!¤åNNÿ1uŽN §Y$TAG$§!„výV“^Ì‘	g§Y$TRE$§!¤ÿN!k7>kÑ‘˜:N §Y$LOA$§!¤."

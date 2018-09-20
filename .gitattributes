@@ -1,0 +1,4 @@
+text eol=auto   
+*.yml eol=lf
+*.fnt eol=crlf
+*.gfx eol=crlf
